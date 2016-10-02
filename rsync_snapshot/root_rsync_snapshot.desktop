@@ -1,28 +1,20 @@
 [Desktop Entry]
-
-# The type as listed above
-Type=Application
-
-# The version of the desktop entry specification to which this file complies
-#Version=1.0
-
-# The name of the application
-Name=Rsync Root Snapshot Tool (/)
-
-# A comment which can/will be used as a tooltip
-Comment=Incremental Snapshot Tool for /
-
-# The path to the folder in which the executable is run
-Path=~/Scripts/rsync_snapshot
-
-# The executable of the application.
-Exec=sudo ~/Scripts/rsync_snapshot/root_rsync_snapshot.sh
-
-# The name of the icon that will be used to display this entry
-Icon=~/Scripts/rsync_snapshot/timemachineapple.ico
-
-# Describes whether this application needs to be run in a terminal or not
-Terminal=true
-
-# Describes the categories in which this entry should be shown
 Categories=Utilities
+Comment[en_CA]=Incremental Snapshot Tool for /
+Comment=Incremental Snapshot Tool for /
+Exec=sudo ~/Scripts/rsync_snapshot/root_rsync_snapshot.sh
+GenericName[en_CA]=
+GenericName=
+Icon=/home/plasma/Scripts/rsync_snapshot/timemachineapple.ico
+MimeType=
+Name[en_CA]=Rsync Snapshot Tool (/)
+Name=Rsync Snapshot Tool (/)
+Path=~/Scripts/rsync_snapshot
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
