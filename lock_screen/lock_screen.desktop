@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Lock the screen
+Comment=Locks the screen
+Path=/home/plasma/Scripts/lock_screen
+Exec=/home/plasma/Scripts/lock_screen/lock_screen.sh
+Icon=weather-clear-night
+Terminal=False
+Categories=Application;Utilities;
+

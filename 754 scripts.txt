@@ -1,0 +1,3 @@
+Remember to 754 scripts!
+Otherwise they won't be executable!
+Also don't change the name of this folder, alot of paths (e.g. .desktop files) absolutely link to it.
